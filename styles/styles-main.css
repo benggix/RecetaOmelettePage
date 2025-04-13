@@ -58,17 +58,17 @@ body {
 
 .container_image > figcaption {
   font-family: 'Young Serif', sans-serif;
-  width: 85%;
+  width: 90%;
   /* font-size: clamp(1.5rem, 3vw, 6rem);  */
   font-size: calc(2vw + 1.4rem);
   padding-top: 0.5em;
 }
 .container_image > p {
-  width: 85%;
+  width: 90%;
 }
 
 .preparation, .ingredients, .instructions, .nutrition{
-  width: 85%;
+  width: 90%;
 }
 
 .preparation {
